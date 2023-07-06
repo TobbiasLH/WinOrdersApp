@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinOrdersApp", "WinOrdersApp\WinOrdersApp.csproj", "{CA1377EE-88DD-48C0-8637-691E55304B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbAccess", "DbAccess\DbAccess.csproj", "{E5ABCE41-2928-4E72-8B3A-CE847C2C482D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1377EE-88DD-48C0-8637-691E55304B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1377EE-88DD-48C0-8637-691E55304B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1377EE-88DD-48C0-8637-691E55304B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1377EE-88DD-48C0-8637-691E55304B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5ABCE41-2928-4E72-8B3A-CE847C2C482D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5ABCE41-2928-4E72-8B3A-CE847C2C482D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5ABCE41-2928-4E72-8B3A-CE847C2C482D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5ABCE41-2928-4E72-8B3A-CE847C2C482D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDB5F85-37A4-4E09-A67B-C07780C7710C}
+	EndGlobalSection
+EndGlobal
